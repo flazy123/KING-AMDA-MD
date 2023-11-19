@@ -1,6 +1,6 @@
 <br>
   
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+🄺𝗜𝗡𝗚╺+🄰𝗠𝗗𝗤+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+𝙰𝙼𝙳𝙰+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:𝗠𝗥:+𝗖𝗬𝗕𝗘𝗥.༆𝗙𝗟𝗔𝗭𝗬;𝗠𝗥:+𝗖𝗬𝗕𝗘𝗥.☬𝗗𝗘𝗫𝗧𝗘𝗥༒;𝗠𝗥:+𝗖𝗬𝗕𝗘𝗥.𝗛𝗔𝗦𝗦𝗔࿐;💕ඉතිං+ඔයල🙃;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+🄺𝗜𝗡𝗚╺+🄰𝗠𝗗𝗔+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+𝙰𝙼𝙳𝙰+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:𝗠𝗥:+𝗖𝗬𝗕𝗘𝗥.༆𝗙𝗟𝗔𝗭𝗬;𝗠𝗥:+𝗖𝗬𝗕𝗘𝗥.☬𝗗𝗘𝗫𝗧𝗘𝗥༒;𝗠𝗥:+𝗖𝗬𝗕𝗘𝗥.𝗛𝗔𝗦𝗦𝗔࿐;💕ඉතිං+ඔයල🙃;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
 
 ## KING-AMDA-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
