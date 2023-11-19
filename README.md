@@ -45,7 +45,7 @@
 <br>
 <br>
 
-**[🚀 Join Our WhatsApp Channel](https://chat.whatsapp.com/L6Rw4onJlfBJGprvSQh9I2)**
+**[🚀 Join Our WhatsApp Channel](https://chat.whatsapp.com/Ht0qxnIYBiGHeP1piofUe2)**
 <br>
 <br>
 
