@@ -88,7 +88,7 @@
 
 ---
 
-<a href="https://www.youtube.com/@cyber_flazy"><img src="https://telegra.ph/file/8daee9974c4a7c6c78815.jpg" width=80 height=80></a> 
+<a href="https://www.youtube.com/@cyber_flazy"><img src="https://telegra.ph/file/d98b00d1851c1463d4328.jpg" width=80 height=80></a> 
 
 |**[`HASSA_SITHUM_DEXTER_SAVIYA`](tiktok.com/@_cyber_hr_king)**|
 
