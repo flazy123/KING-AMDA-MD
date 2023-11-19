@@ -1,0 +1,33 @@
+{
+  "name": "KING-AMDA-MD (1.0.0)",
+  "description": "KING-AMDA-MD has whatsapp bot using thanks for all. 🇱🇰💘",
+  "logo": "https://telegra.ph/file/24e839872e6d71ec648ab.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "cyber team", "king-amda-md"],
+  "success_url": "/",
+
+  "env": {
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },
+    "SESSION_ID": {
+      "description": "Put your session Id here.",
+      "required": true
+    },
+    "GITHUB_USERNAME": {
+      "description": "Put your github username here.",
+      "required": true
+    },
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github authtoken here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-22"
+}
