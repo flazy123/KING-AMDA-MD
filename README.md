@@ -100,14 +100,8 @@
 * [`SAVIYA_DEXTER_FLAZY_HIRU NANGI`](tiktok.com/@_cyber_hr_king/)
 
 <br>
-<br>
-<br>
-<br>
-<br>
-
 
 ![license](https://telegra.ph/file/c6fd0d6f04230db5ca07c.jpg?color=green&label=License&style=plastic)
-
 
 
 `Release date:- 2023.11.18`
