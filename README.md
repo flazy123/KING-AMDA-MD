@@ -82,7 +82,7 @@
 ## **`CYBER-FLAZY-MD BOT OWNERS,`**
 
 
-   <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/a175fe461a061f2159e7f.jpg" width=80 height=80></a>   
+   <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/83aed3dcb3881a1995006.jpg" width=80 height=80></a>   
 
 |**[`PAWAN_PANDA_CHANU_RUKSHAN_HIRU NANGI`](tiktok.com/@_cyber_hr_king)**|
 
