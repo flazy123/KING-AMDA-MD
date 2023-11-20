@@ -61,16 +61,12 @@
 
 **[SCAN QR-CODE-SERVER-3](https://replit.com/@savigaming2009/KING-AMDA-BOT-QR?v=1)**
 
-
-<br>
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/prabathLK/PRABATH-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=prabath-md)
 <br>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
 <br>
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/flazy123&template=https://github.com/flazy123/KING-AMDA-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/flazy123/KING-AMDA-MD&template=https://github.com/flazy123/KING-AMDA-MD.git)
 
 <br>
 
